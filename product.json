@@ -1,0 +1,83 @@
+[
+  {
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Science",
+    "image": "book.jpg",
+    "price": "250",
+    "category": "NCERT"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Maths",
+    "image": "book.jpg",
+    "price": "300",
+    "category": "NCERT"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "English",
+    "image": "book.jpg",
+    "price": "200",
+    "category": "NCERT"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Economics",
+    "image": "book.jpg",
+    "price": "500",
+    "category": "NCERT"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "The Alchemist",
+    "image": "book.jpg",
+    "price": "350",
+    "category": "Novel"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Pewer of subconcious mind",
+    "image": "book.jpg",
+    "price": "200",
+    "category": "Novel"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Pen",
+    "image": "book.jpg",
+    "price": "600",
+    "category": "Stationery"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Scissor",
+    "image": "book.jpg",
+    "price": "500",
+    "category": "Extra"
+  },
+  {
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ea10"
+    },
+    "name": "Social Science(History)",
+    "image": "book.jpg",
+    "price": "250",
+    "category": "NCERT"
+  }
+]
